@@ -1,5 +1,5 @@
 my:
-  greeting: hello world from config server
+  greeting: payment-test
   list:
      values: one, two, three
 db:
