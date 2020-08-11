@@ -1,8 +1,0 @@
-my:
-  greeting: payment-dev
-  list:
-     values: one, two, three
-db:
-   connection: connection-string
-   host: 127.0.0.1
-   port: 1200
